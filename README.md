@@ -1,3 +1,3 @@
-# LoopHole-in-College-Website
+# Result Scraper
 
-This code can webscrap and get results of all the students in a semester just with few clicks and modification......
+Web scraper that scrapes results developed by Contineo
